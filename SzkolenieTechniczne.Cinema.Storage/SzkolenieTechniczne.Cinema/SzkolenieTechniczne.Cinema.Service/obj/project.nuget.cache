@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qSOY39R+DIflCiCuFq9UC8cPAE+uefnDnJ/wm1M2Y6w5aiZL8pi2FjAyS0OkJneKbidDTjqhUejnVxEXE3dwYw==",
+  "success": true,
+  "projectFilePath": "F:\\SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w67239\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

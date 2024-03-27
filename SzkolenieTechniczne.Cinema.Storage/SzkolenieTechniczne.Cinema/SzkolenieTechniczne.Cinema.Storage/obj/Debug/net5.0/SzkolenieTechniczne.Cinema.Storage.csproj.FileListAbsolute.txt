@@ -1,0 +1,11 @@
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.deps.json
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.dll
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.pdb
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.GeneratedMSBuildEditorConfig.editorconfig
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.AssemblyInfoInputs.cache
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.AssemblyInfo.cs
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.csproj.CoreCompileInputs.cache
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.dll
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\obj\Debug\net5.0\refint\SzkolenieTechniczne.Cinema.Storage.dll
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.pdb
+F:\SzkolenieTechniczne.Cinema.Storage\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Storage\obj\Debug\net5.0\ref\SzkolenieTechniczne.Cinema.Storage.dll
